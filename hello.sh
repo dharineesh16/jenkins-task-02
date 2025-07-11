@@ -5,4 +5,4 @@ echo "System information:"
 uname -a
 
 echo "bulid information"
-
+echo "enable automation"
